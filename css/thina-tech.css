@@ -1,0 +1,106 @@
+
+body {
+  background-color: black;
+  margin-top: 10px;
+  color: white;
+}
+
+.nav {
+  border-radius: 10px;
+  height: 50px;
+  vertical-align: center;
+  line-height: 30px;
+  width: 60%;
+  border: white solid 0.5px;
+  margin: 0 auto;
+}
+
+.nav a {
+  color: white;
+}
+
+.carousel {
+  margin-top: 50px;
+  height: 500px;
+}
+
+.carousel-item .thina {
+  margin: 0 auto;
+  height: 350px;
+}
+
+.carousel-item .technologies {
+  margin: 0 auto;
+  height: 400px;
+}
+
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+.carousel-indicators {
+  position: absolute;
+  margin-top: 20px;
+}
+
+hr {
+color: white;
+ background-color: white;
+}
+
+.technologies > li > u {
+  font-size: larger;
+  font-weight: bold;
+}
+
+.alert {
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+.card {
+  background-color: black;
+}
+
+.card-text {
+  margin-left: 15px;
+}
+
+.card-img {
+  height: 150px;
+  width: auto;
+  margin-top: 50px;
+}
+
+a:visited {
+  color: white;
+}
+
+.mois {
+  margin-top: 20px;
+}
+table {
+  margin-top: 20px;
+}
+thead {
+  color: white;
+  font-weight: bold;
+}
+tbody {
+  color: white;
+}
+
+.weekend {
+  background-color: darkgray;
+}
+
+.off {
+  background-color: lightgray;
+}
+
+#config_trajets > tbody a {
+  width: 100%;
+}
